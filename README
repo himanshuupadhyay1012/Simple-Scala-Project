@@ -7,6 +7,6 @@ To import the project to Eclipse, you may use the plug-in sbteclipse
 run './script/sbt.sh eclipse'
 see https://github.com/typesafehub/sbteclipse
 
-To import the project to IntelliJ IDEA,you may use the plug-in sbt-idea 
+To import the project to IntelliJ IDEA,you may use  the plug-in sbt-idea 
 run './script/sbt.sh gen-idea'
 see https://github.com/mpeltonen/sbt-idea
