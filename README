@@ -3,7 +3,7 @@ Enno Runne, 2011-10-07
 
 Contains SBT, a main class and some sample test cases for various Scala test frameworks.
 
-To import the project to Eclipse, you may use the plug-in sbteclipse 
+To import the project to Eclipse,you may use the plug-in sbteclipse 
 run './script/sbt.sh eclipse'
 see https://github.com/typesafehub/sbteclipse
 
